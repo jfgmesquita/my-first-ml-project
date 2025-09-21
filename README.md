@@ -26,7 +26,7 @@ The project uses a small dataset (`data/music.csv`) with 18 samples containing:
 
 ## 🛠️ Technical Stack
 
-- **Python 3.x**
+- **Python 3.12**
 - **pandas** - Data manipulation and analysis
 - **scikit-learn** - Machine learning algorithms and tools
 - **joblib** - Model serialization
@@ -39,8 +39,8 @@ The project uses a small dataset (`data/music.csv`) with 18 samples containing:
 
 ### 1. Clone the Repository
 ```bash
-git clone github.com/jfgmesquita/my-first-ml-project.git
-cd MachineLearning
+git clone https://github.com/jfgmesquita/my-first-ml-project.git
+cd my-first-ml-project
 ```
 
 ### 2. Create and Activate Conda Environment
@@ -89,9 +89,9 @@ MachineLearning/
 │   └── music-recommender.dot        # Decision tree visualization
 │
 ├── .gitignore                       # Git ignore rules
+├── README.md                        # Project documentation
 ├── environment.yml                  # Conda environment file
-├── requirements.txt                 # Python dependencies
-└── README.md                        # Project documentation
+└── requirements.txt                 # Python dependencies
 ```
 
 ## How to Run
