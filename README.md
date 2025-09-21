@@ -39,7 +39,7 @@ The project uses a small dataset (`data/music.csv`) with 18 samples containing:
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone github.com/jfgmesquita/my-first-ml-project.git
 cd MachineLearning
 ```
 
