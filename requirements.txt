@@ -1,0 +1,13 @@
+# Core machine learning and data science libraries
+pandas==2.3.2
+scikit-learn==1.7.1
+joblib==1.5.2
+numpy==1.26.4
+
+# Jupyter notebook dependencies
+jupyter==1.1.1
+notebook==7.4.5
+ipykernel==6.30.1
+
+# Optional: For decision tree visualization
+graphviz
